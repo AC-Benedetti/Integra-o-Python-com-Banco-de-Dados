@@ -1,2 +1,3 @@
-# Integra-o-Python-com-Banco-de-Dados
-Desafio realizado durante aula da Hashtag Treinamentos, usando as Bibliotecas PANDAS e PYODBC
+Exercício desenvolvido durante as aulas da Hashtag Treinamentos, esse projeto foi desenvolvido usando 2 Bibliotecas "PANDAS" e "PYODBC"
+
+Mesmo projeto usando em cada aplicação uma Biblioteca.
